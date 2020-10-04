@@ -24,6 +24,5 @@ int main() {
     trainers.remove_at_index(0);
     trainers.print_names();
 
-
     return 1;
 }
